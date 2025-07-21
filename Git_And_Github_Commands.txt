@@ -1,0 +1,35 @@
+Git --- Version Control
+    v1
+    v2
+    v3
+new v4
+
+>> It is distributed (on cloud)
+>> Collaboration 
+>> Tracking changes
+>> Recovery
+
+
+Github
+GitLabs
+BitBucket
+Gitpod
+
+
+
+
+
+
+
+
+git config --global user.name "Manish"
+git config --global user.email "abc123@gmail.com"
+git init
+git remmote add remoteName "repositoryURL"
+git pull branch Name
+git add .
+git commit -m "commit mrssage"
+git push
+git checkout branchname
+git chechout -b branchName
+git clone
