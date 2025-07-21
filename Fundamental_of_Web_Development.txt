@@ -1,0 +1,64 @@
+Web Developement  --- Mern Stack
+MERN ----- 
+M : -- MongoDB
+E : -- ExpressJs
+R : -- React
+N : -- NodeJs
+
+MEAN -- 
+M : -- MongoDB
+E : -- ExpressJs
+A : -- Angular
+N : -- NodeJs
+
+Pillers of the Web Developement--- 
+1. HTML -- Hyper, Text, Markup, Language
+2. CSS -- Cascading, Sytle, Sheets
+3. Js -- JavaScript
+
+
+URL -- Uniform, Resource, Locator 
+
+Sets of the Rules/Ontructions 
+
+http : -- Hyper Text Transfer Protocal
+https : -- Hyper Text Transfer Protocal Secure 
+tep : -- Transmission Control Protocal
+udp : -- User Datagram Protocal
+ftp : -- File Transfer Protocal
+smtp : -- Simple Mail Tranfer Protocal
+ip : -- Internet Protocal 
+
+
+
+SSL -- Source Socket Layer
+
+Server/Domain Name ---
+>> Unique Identifier
+>> Eg:  Google
+
+Sub-Domain Name
+ >> Gmeet
+ >> Gpay
+ >> Gmail
+ >> Gdrive
+ >> Gphoto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
