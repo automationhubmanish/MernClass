@@ -31,7 +31,7 @@ ip : -- Internet Protocal
 
 
 
-SSL -- Source Socket Layer
+SSL -- Secure Socket Layer
 
 Server/Domain Name ---
 >> Unique Identifier
