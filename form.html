@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form in HTML</title>
+  </head>
+  <body>
+    <h2>Forms in HTML</h2>
+    <form action="">
+      <label for="firstName">First Name: </label>
+      <input
+        id="#firstname"
+        type="text"
+        minlength="5"
+        maxlength="12"
+        required
+      />
+      <label for="lastName">Last Name: </label>
+      <input id="#lastName" type="text" minlength="5" maxlength="12" />
+      <br />
+      <br />
+      <label for="number">Age: </label>
+      <input id="#number" type="number" minlength="1" maxlength="2" />
+      <br /><br />
+      <label for="email">Email: </label>
+      <input id="#email" type="text" minlength="5" maxlength="15" />
+      <br />
+      <br />
+      <label for="DOJ">Date of Joining</label>
+      <input id="#DOJ" type="date" />
+      <br /><br />
+      <label for="">Password:</label>
+      <input type="password" />
+      <p>Enter Your shit size:</p>
+      <input type="radio" name="shirtSize" id="small" /><label for="small"
+        >Small Size</label
+      >
+      <input type="radio" name="shirtSize" id="midium" /><label for="midium"
+        >Midium Size</label
+      >
+      <input type="radio" name="shirtSize" id="large" /><label for="large"
+        >Large Size</label
+      >
+
+<br><br>
+<label for="language">Select Known language:</label>
+<br>
+<input type="checkbox" name="lang" id="Hindi"/>
+<label for="Hindi">Hindi</label>
+<input type="checkbox" name="lang" id="English"/>
+<label for="English">English</label>
+<input type="checkbox" name="lang" id="Sanskit"/>
+<label for="Sanskit">Sanskit</label>
+      <br><br>
+      <label for="color">Please select color of the your shirt</label>
+ <input type="color" name="colro" id="#clr">
+ <br><br>
+<label for="paymentOptions">Please Select Payment Option</label>
+<select name="payment" id="paymentOptions">
+    <option value="Select Option">Select Option</option>
+<option value="GPay">G Pay</option>
+<option value="PhonePay">Phone Pay</option>
+<option value="CreditCard">Credit Card</option>
+<option value="DebitCard">Debit Card</option>
+<option value="UPI">UPI</option>
+<option value="COD">Cash On Delivery</option>
+</select>
+<br><br>
+<label for="description">Description</label>
+<textarea name="description" id="description" minlength="10" maxlength="200"></textarea>
+<br><br>
+<button type="reset">Reset</button>
+<button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
