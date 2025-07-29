@@ -1,0 +1,64 @@
+/* 
+Selector Syntax :--
+selectorType{
+proprtyKey : proprtyValue;
+}
+
+*/
+
+/*  1. Element Selector    */
+
+/* p{
+    color: red;
+}
+h2{
+color: chartreuse;
+}
+h1{
+    color: fuchsia;
+} */
+
+/*  2. ID Selector   */
+
+/* #pId{
+    color: coral;
+} */
+
+/* 3. Class Selector      */
+
+/* .pClass{
+    color: aquamarine;
+} */
+
+/* 4.  Nested Selector     */
+/* Here we can use multiple selector by saperating with commo(,) */
+/* #pId, .pClass, .nastedSel{
+    color: red;
+} */
+
+/* Specific order
+Id>> Class >> Element */
+
+/* 5. Universal Selector */
+/* 
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+    
+*/
+
+
+/* 6. Decendcent Selector */
+/* #descendentSelector p{
+    color: red;
+} */
+
+/* Direct Child selector */
+
+#directChildSelector > p{
+    color: red;
+}
+
+
