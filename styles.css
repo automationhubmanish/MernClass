@@ -20,8 +20,10 @@
       box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
     }
 
-    .logo, img {
-    width: 75px;
+    .logo {
+      font-size: 1.4rem;
+      font-weight: bold;
+      color: #222;
     }
 
     .nav-links {
